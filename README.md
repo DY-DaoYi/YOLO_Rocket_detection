@@ -25,8 +25,8 @@
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZluaA==)（**0.4折优惠，自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iuvVfQD?tk=fpBN5QoAM2E)（**0.5折优惠**）
 
 ---
 
@@ -50,7 +50,7 @@
 >
 > | 哔哩哔哩 (Bilibili)                                          | 抖音 (Douyin)                             | 小红书 (Xiaohongshu)                                                                                                                                                                                 | 快手 (Kuaishou)                                           |
 > | -------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-> | [Bilibili](https://www.bilibili.com/video/BV1ZRoVBGEnK/) | [抖音](https://v.douyin.com/0gpjibNhRpA/) | [Xiaohongshu](https://www.xiaohongshu.com/discovery/item/69eacc07000000001e00d9ba?source=webshare&xhsshare=pc_web&xsec_token=YB69rQl2PnXWOy-ZYe3rEvEQxmShB7D7SscSUhV59p0E0=&xsec_source=pc_share) | [Kuaishou](https://www.kuaishou.com/f/X-7Y8CazyxmR91IT) |
+> | [Bilibili](https://www.bilibili.com/video/BV18SoZBWEmJ/) | [抖音](https://v.douyin.com/hoT0iUZoUYw/) | [Xiaohongshu](https://www.xiaohongshu.com/discovery/item/69edb96d000000001a02defb?source=webshare&xhsshare=pc_web&xsec_token=YBV5uAsD2pht6wxYQk1hMEZDPRVMmHaYx56G0B9pEDarI=&xsec_source=pc_share) | [Kuaishou](https://www.kuaishou.com/f/X3ysPP3YQQCX1i7) |
 >
 
 ---
@@ -215,8 +215,8 @@ YOLO_Rocket_detection/
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZluaA==)（**0.4折优惠，自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iuvVfQD?tk=fpBN5QoAM2E)（**0.5折优惠**）
 
 > ---
 
