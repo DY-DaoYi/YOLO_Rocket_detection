@@ -1,9 +1,9 @@
 # 🚀 基于 YOLO 的火箭检测系统 (Rocket Detection System)
 
-[Python](https://www.python.org/)
-[Streamlit](https://streamlit.io/)
-[Ultralytics YOLO](https://docs.ultralytics.com/)
-[License](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.11.15-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.55.0-red)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-8.4.21-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 本项目是一个功能完整的火箭检测系统。基于最新的 Ultralytics YOLO 系列模型构建，能够检测图像中的火箭相关目标（如发动机火焰、火箭本体等）。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
 
