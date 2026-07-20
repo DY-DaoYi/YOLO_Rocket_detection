@@ -94,9 +94,13 @@
       ```bash
       conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
       ```
-2. **安装依赖**
-  下载本仓库代码，并安装必要的第三方库：
-3. **运行系统**
+2.  **安装依赖**
+    下载本仓库代码，并安装必要的第三方库：
+    ```bash
+    pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+    ```
+
+3.  **运行系统**
   在终端中执行以下命令：
     成功后，浏览器会自动打开系统界面。
     *注意：此时由于没有加载模型文件，点击检测可能会提示"未找到模型"。*
